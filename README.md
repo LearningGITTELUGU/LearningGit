@@ -1,2 +1,2 @@
 # LearningGit
-This is my project in GIT
+This is my project in GIT and be focused and learn
